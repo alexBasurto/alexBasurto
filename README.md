@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### About me
-- 👨 I'm Alex Basurto
+- 🧑‍💻 I'm Alex Basurto
 - 🌱 I’m currently learning ... MERN STACK
 - 📬 You can contact me on Discord: drek_89
 
