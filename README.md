@@ -2,7 +2,7 @@
 
 #### About me
 - 🧑‍💻 I'm Alex Basurto
-- 🌱 I’m currently learning ... MERN STACK
+- 🌱 I’m currently learning ... MERN-SERN STACK
 - 📬 You can contact me on Discord: drek_89
 
 #### Codewars
