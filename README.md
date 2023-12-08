@@ -6,6 +6,6 @@
 - 📬 You can contact me on Discord: drek_89
 
 #### CodewarsBadge
-My Codewars Badge:
-![image](https://www.codewars.com/users/alexBasurto/badges/small)
+[![My Codewars Badge](https://www.codewars.com/users/alexBasurto/badges/small)](https://www.codewars.com/users/alexBasurto)
+
 
