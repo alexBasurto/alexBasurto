@@ -18,9 +18,6 @@ I'm Alex Basurto, a passionate Full Stack Web Developer with a penchant for turn
 - Certified in Cisco CCNA Routing & Switching and mobile radio technologies from Ericsson and Alcatel.
 - Proud holder of a Higher Education Certificate in Info Systems and Telecom.
 
-## 🚗 Fun Fact:
-- I'm not just driving code; I've got a driver's license and my own set of wheels! 🚗
-
 ## 📬 Let's Connect:
 - Discord: drek_89
 - [LinkedIn](https://www.linkedin.com/in/alex-basurto/)
