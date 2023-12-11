@@ -19,7 +19,7 @@ I'm Alex Basurto, a passionate Full Stack Web Developer with a penchant for turn
 - Proud holder of a Higher Education Certificate in Info Systems and Telecom.
 
 ## 📬 Let's Connect:
-- Discord: drek_89
+- [Discord](https://discord.com/users/691301531416526879)
 - [LinkedIn](https://www.linkedin.com/in/alex-basurto/)
 
 
