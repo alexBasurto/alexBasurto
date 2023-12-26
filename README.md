@@ -7,7 +7,7 @@ I'm Alex Basurto, a passionate Full Stack Web Developer with a penchant for turn
 - Embracing the coding lifestyle with online courses, self-taught adventures, and VPS-powered projects.
 
 ## 🌐 Languages & Tech I Love:
-- JavaScript | React | NodeJS | ExpressJS | MySQL | PostgreSQL | MongoDB | Docker
+- JavaScript | React | NodeJS | ExpressJS | MySQL | PostgreSQL | MongoDB | Git | Docker
 - Python | Django | HTML | CSS | and a sprinkle of SQL magic.
 
 ## 👨‍💻 My Past Adventures:
