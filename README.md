@@ -14,9 +14,7 @@ I'm Alex Basurto, a passionate **Full Stack Web Developer** with a penchant for 
 - Embracing the coding lifestyle with online courses, self-taught adventures, and VPS-powered projects.
 
 ## 🌐 Languages & Tech I Love:
-React | NodeJS | ExpressJS | JavaScript | HTML | CSS | Docker | Git
-MySQL | PostgreSQL | MongoDB | MS SQL Server
-Python | VisualBasic | Linux & Bash
+React | NodeJS | ExpressJS | JavaScript | HTML | CSS | Docker | Git | MySQL | PostgreSQL | MongoDB | MS SQL Server | Python | VisualBasic | Linux & Bash
 
 ## 🎓 Learning Never Stops:
 - Certified in Cisco CCNA Routing & Switching.
