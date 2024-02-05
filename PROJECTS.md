@@ -1,5 +1,5 @@
 [Back to my GitHub user profile.](README.md)
-# My Best Projects
+# My Favorite Projects
 Projects sorted by date, most recent first.
 | Project | Date | Timeframe | Description |
 |---|---|---|---|
@@ -17,3 +17,4 @@ Projects sorted by date, most recent first.
 | Lagunpay [Front](https://github.com/alexBasurto/fullstack_front) [Back](https://github.com/alexBasurto/fullstack_final) | 12/2023 | 1 week | Web app designed to simplify group expense calculations |
 | [PadelPlanet](https://github.com/alexBasurto/padelplanet) | 11/2023 | 10 days | Backend application following the MVC pattern, where the views are rendered on the server side using Pug templates. Service that allows padel players to reserve courts and organize matches. |
 | [BioCan - protectora perros](https://github.com/alexBasurto/backend_equipos_protectora)|11/2023 | 1 week | An intranet system designed for a dog shelter to manage entries, exits, candidate assessments, and adoptions... |
+| [FilmFinder](https://github.com/alexBasurto/web_peliculas)| 10/2023 | 1 week | Plain HTML and CSS, JS Vanilla. This website allows you to access the OMDB API in a user-friendly way.
