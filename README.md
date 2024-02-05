@@ -1,9 +1,6 @@
 
 
-👋 Hi there! I'm a technology enthusiast 🖥️ with years of experience in the IT field and a recent turn towards full stack web development 🌐 I'm ready to take my career to new levels 🚀.
-
-## 📂 Highlighted Projects
-Before I go on, you can explore my most exciting **[PROJECTS](PROJECTS.md)** directly.
+👋 Hi there! I'm a technology enthusiast 🖥️ with years of experience in the IT field and a recent turn towards full stack web development 🌐 I'm ready to take my career to new levels 🚀. Before I go on, you can explore my most exciting 📂 **[PROJECTS](PROJECTS.md)** directly.
 
 ## 👨‍💻 About Me
 
