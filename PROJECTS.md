@@ -1,4 +1,4 @@
-[Back to my GitHub user profile.](https://github.com/alexBasurto/alexBasurto/)
+[Back to my GitHub user profile.](https://github.com/alexBasurto/)
 # My Favorite Projects
 Projects sorted by date, most recent first.
 | Project | Date | Timeframe | Description |
